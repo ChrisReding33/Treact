@@ -199,6 +199,10 @@ HEADER / ABOUT US ↓
 
 */
 
+.container {
+    padding: 96px 0;
+}
+
 
 header .row {
     display: flex;
@@ -206,6 +210,11 @@ header .row {
     justify-content: space-between;
 }
 
+.row {
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+}
 
 /* 
 
